@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    float r,c,p;
-    scanf("%f",&r);
-    c=3.14*r*r;
-    p=2*3.14*r;
+    float ar,pc,a;
+    scanf("%f",&a);
+    ar=(3.14*a*a);
+    pc=(2*3.14*a);
     printf("%.2f
-%.2f",c,p);
+%.2f",ar,pc);
 }
