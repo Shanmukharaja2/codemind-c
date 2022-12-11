@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int s,n;
+    int n,x;
     scanf("%d",&n);
-    s=(n*(n+1)/2);
-    printf("%d",s);
+    x=n*(n+1)/2;
+    printf("%d",x);
 }
