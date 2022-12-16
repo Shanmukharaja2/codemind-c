@@ -7,7 +7,7 @@ int main()
     {
         if(i%2==0&&i%3==0)
         {
-    c++;
+            c++;
         }
     }
     printf("%d",c);
