@@ -7,5 +7,5 @@ int main()
     {
         s=s+i;
     }
-    printf("%d",s);
+    printf("%d",s);   
 }
